@@ -4,3 +4,5 @@ A simple QR image tool implementation using OpenCV's QrCodeDetector: https://doc
 qrcode.py: OpenCV's QR code scanner via a camera connected to your pc.
 
 qrimage.py: A simple QR code rescaler and identifier for slanted codes that are previously saved as images.
+
+Test QR codes and outputs are provided and should be safe to use, but feel free to use your own.
