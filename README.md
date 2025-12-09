@@ -1,6 +1,6 @@
 # qr_image_id_test
-A simple qr image tool implementations using OpenCV's QrCodeDetector.
+A simple QR image tool implementation using OpenCV's QrCodeDetector: https://docs.opencv.org/3.4/de/dc3/classcv_1_1QRCodeDetector.html
 
-qrcode.py: OpenCV's qr code scanner via a camera connected to your pc.
+qrcode.py: OpenCV's QR code scanner via a camera connected to your pc.
 
-qrimage.py: A simple qr code rescaler and identifier for slanted codes that are previously saved as images.
+qrimage.py: A simple QR code rescaler and identifier for slanted codes that are previously saved as images.
